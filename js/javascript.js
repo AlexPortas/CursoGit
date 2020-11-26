@@ -1,1 +1,3 @@
-// JavaScript Document
+function saludo(){
+	alert("Aqui estamos!!");
+}
